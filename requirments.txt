@@ -7,3 +7,5 @@ langchain
 langchain-openai
 langchain-openrouter
 deepagents
+httpx
+beautifulsoup4
