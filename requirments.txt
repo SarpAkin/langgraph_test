@@ -3,6 +3,7 @@ uvicorn
 sqlalchemy[asyncio]
 aiomysql
 redis[hiredis]
-aiomysql
 langchain
 langchain-openai
+langchain-openrouter
+deepagents
